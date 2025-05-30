@@ -65,3 +65,5 @@ Khi chọn một file, Cypress sẽ tự động chạy tất cả các test cas
     ```
 Kết quả kiểm thử sẽ được in trực tiếp ra terminal.
 
+## Video kết quả
+https://youtu.be/R1arAO-gQGk
